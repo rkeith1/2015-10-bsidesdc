@@ -22,8 +22,7 @@
 **Location:**
 
 ```
-  Apple
-  Cupertino, CA
+  BsidesDC
 ```
 
 **Goals for the class**
@@ -43,7 +42,7 @@
 <a name="part1"></a>
 2. Part 1- Bro Overview
 ===
-[Part 1- Bro Overview for Operations](https://github.com/criticalstack/2015-10-bsidesdc/blob/master/syllabus/Syllabus_1_Operations.md)
+[Part 1- Bro Overview](https://github.com/criticalstack/2015-10-bsidesdc/blob/master/syllabus/Syllabus_1_Operations.md)
 
 The goal of first day of class is to understand the fundamental concepts inside of Bro, what drives Bro forward and how are resources consumed.
 

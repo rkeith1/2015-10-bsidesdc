@@ -93,12 +93,11 @@ Let's ask Bro to read the traffic sample again except let's load ```local.bro```
 
 Class Project.  I need two brave volunteers.
 
-3. Using a piece of paper, draw a flow chart of the Protocol State Machine for this transaction
+*Follow Along:*
 
+1. Using a piece of paper, draw a flow chart of the Protocol State Machine for this transaction
+2. Imagine what a PSM would look like for FTP?  IRC?  SSL/TLS?  How are they the same, how are they different?
 
-```
-bro -C -r http-partial-content-transfer.pcap policy/misc/dump-events.bro local "PacketFilter::default_capture_filter = \"host 54.230.103.187\""  >> dump-events-host.log
-```
 
 
 __Copyright (c) 2015 Critical Stack LLC.  All Rights Reserved.__

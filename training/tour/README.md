@@ -51,7 +51,7 @@ redef Site::local_nets += {
     * ```bro -r /opt/TrafficSamples/faf-exercise.pcap```
   3. Look at the logs generated: 
     * ```ls *.log```
-  4. Go through some of the logs (e.g. cat files.log | colorize); intro to log guides
+  4. Go through some of the logs (e.g. less -S files.log); intro to log guides
 
 <a name="wireshark"></a>
 3. Bro compared to Wireshark
